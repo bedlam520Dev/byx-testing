@@ -14,6 +14,18 @@
 
 ---
 
+1. [ByX Protocol Comprehensive Testing Suite](#byx-protocol-comprehensive-testing-suite)
+   1. [Overview](#overview)
+   2. [Contents](#contents)
+   3. [Purpose](#purpose)
+   4. [Key Findings](#key-findings)
+   5. [Test Coverage](#test-coverage)
+   6. [Usage](#usage)
+   7. [Contact](#contact)
+   8. [License](#license)
+
+---
+
 - **Kitchen Sink Test Sketch** - A complete validation sketch that exercises every documented API feature at least once. Includes all stub functions and constant definitions required to achieve successful execution
 - **Comprehensive Error Report** - Detailed documentation of all implementation gaps and workarounds
 
